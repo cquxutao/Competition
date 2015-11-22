@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>gprs/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>142</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10628-21785</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>gprs</ExpandedNode><ExpandedNode>gprs/uoos</ExpandedNode><ExpandedNode>gprs/user</ExpandedNode><ExpandedNode>gprs/user/inc</ExpandedNode><ExpandedNode>gprs/user/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-26742-19809</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-26219-19819</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-28585-12941</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>450</SelStart><SelEnd>450</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\src\module.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>535</SelStart><SelEnd>565</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>539</YPos><SelStart>18744</SelStart><SelEnd>18744</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\src\BoardInit.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1350</SelStart><SelEnd>1350</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\STM32_LIB\inc\stm32f10x_type.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>2461</SelStart><SelEnd>2461</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\USER\inc\BoardInit.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>357</SelStart><SelEnd>357</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\STM32_LIB\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>172</YPos><SelStart>8704</SelStart><SelEnd>8704</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01c02950><key>iaridepm.enu1</key></Toolbar-01c02950></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>571</Bottom><Right>216</Right><x>-2</x><y>-2</y><xscreen>1</xscreen><yscreen>0</yscreen><sizeHorzCX>781</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>170313</sizeVertCX><sizeVertCY>787088</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>112</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>114</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>156593</sizeHorzCY><sizeVertCX>1563</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

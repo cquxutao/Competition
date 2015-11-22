@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\电子设计\STM32F103ZET6 V4\STM32F103ZET6核心板 测试程序\The code is for STM32'uart and added lcd12864\The code is for STM32'uart and added lcd12864\test.uvproj
+Project File Date:  07/10/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\main.c(31): warning:  #223-D: function "lcd12864_WaitBusy" declared implicitly
+Source\User\Main\main.c:        lcd12864_WaitBusy();
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(32): warning:  #223-D: function "lcd12864_WriteCmd" declared implicitly
+Source\User\Main\main.c:        lcd12864_WriteCmd();
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(33): warning:  #223-D: function "lcd12864_WriteData" declared implicitly
+Source\User\Main\main.c:        lcd12864_WriteData();
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(34): warning:  #223-D: function "lcd12864_InitDis" declared implicitly
+Source\User\Main\main.c:        lcd12864_InitDis();
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(35): warning:  #223-D: function "lcd12864_DisStr" declared implicitly
+Source\User\Main\main.c:        lcd12864_DisStr("套");
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c: Source\User\Main\main.c: 5 warnings, 0 errors
+compiling usart.c...
+compiling lcd12864.c...
+compiling Readme.c...
+linking...
+Program Size: Code=5172 RO-data=336 RW-data=24 ZI-data=2144  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 5 Warning(s).

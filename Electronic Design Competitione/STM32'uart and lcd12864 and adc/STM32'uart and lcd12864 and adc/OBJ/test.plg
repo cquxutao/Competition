@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\电子设计\STM32F103ZET6 V4\STM32F103ZET6核心板 测试程序\STM32'uart and lcd12864 and adc\STM32'uart and lcd12864 and adc\test.uvproj
+Project File Date:  07/11/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\adc.h(10): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\adc.h:   #endif
+Source\User\Main\adc.h:         ^
+Source\User\Main\main.c(38): warning:  #223-D: function "lcd12864_WaitBusy" declared implicitly
+Source\User\Main\main.c:        lcd12864_WaitBusy();           //lcd12864
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(39): warning:  #223-D: function "lcd12864_WriteCmd" declared implicitly
+Source\User\Main\main.c:        lcd12864_WriteCmd();           //lcd12864
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(40): warning:  #223-D: function "lcd12864_WriteData" declared implicitly
+Source\User\Main\main.c:        lcd12864_WriteData();          //lcd12864
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(41): warning:  #223-D: function "lcd12864_InitDis" declared implicitly
+Source\User\Main\main.c:        lcd12864_InitDis();                    //lcd12864
+Source\User\Main\main.c:        ^
+Source\User\Main\main.c(45): warning:  #223-D: function "ADC1_GPIO_Config" declared implicitly
+Source\User\Main\main.c:       ADC1_GPIO_Config();                 //温度ADC1
+Source\User\Main\main.c:       ^
+Source\User\Main\main.c(46): warning:  #223-D: function "ADC1_MODE_Config" declared implicitly
+Source\User\Main\main.c:       ADC1_MODE_Config();                         //温度ADC1
+Source\User\Main\main.c:       ^
+Source\User\Main\main.c(61): warning:  #223-D: function "lcd12864_DisStr" declared implicitly
+Source\User\Main\main.c:            lcd12864_DisStr("当前温度=");
+Source\User\Main\main.c:            ^
+Source\User\Main\main.c: Source\User\Main\main.c: 8 warnings, 0 errors
+compiling usart.c...
+linking...
+Program Size: Code=9868 RO-data=336 RW-data=36 ZI-data=2148  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 8 Warning(s).

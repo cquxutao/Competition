@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Source\User\Main -I.\Source\CMSIS\Core\CM3 -I.\Source\STM32F10x_StdPeriph_Driver\inc -I.\Source\User\Usart -I "d:\Program Files\Keil\ARM\INC" -I "d:\Program Files\Keil\ARM\INC\ST\STM32F10x" -o ".\OBJ\lcd12864.o" --omf_browse ".\OBJ\lcd12864.crf" --depend ".\OBJ\lcd12864.d" "Source\User\lcd12864\lcd12864.c"

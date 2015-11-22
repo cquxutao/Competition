@@ -1,0 +1,18 @@
+/*************************************************************/
+/*                      计时中断函数                         */
+/*************************************************************/
+#pragma CODE_SEG NON_BANKED
+interrupt 66 void PIT_INTER(void)
+{ jishu=PORTA;
+  if(PITTF_PTF0 == 1)
+    PITTF_PTF0 = 1;    //清除标志位
+    xianshi(PACNT);//右边
+    xianshi1(jishu);//左边
+    PACNT=0;
+    PTT_PTT1=1;
+    asm("NOP");
+    asm("NOP");
+    PTT_PTT1=1;
+    PTT_PTT1=0;      
+}
+#pragma CODE_SEG DEFAULT

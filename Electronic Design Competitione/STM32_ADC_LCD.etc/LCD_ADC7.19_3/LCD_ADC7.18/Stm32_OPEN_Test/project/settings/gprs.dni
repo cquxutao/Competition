@@ -1,0 +1,74 @@
+[DebugChecksum]
+Checksum=929300267
+[DisAssemblyWindow]
+NumStates=_ 0
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{F:\test\GPRS\USER\src\gprs.c}.178.5@1" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "{F:\test\GPRS\USER\src\gprs.c}.190.1@1" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "{C:\Documents and Settings\hp\×ÀÃæ\Stm32_OPEN_Test\USER\src\I2C.c}.518.5@1" 1 0 0 0 "" 0 "" 0
+Count=3
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+Count=0
+SuppressDialog=0

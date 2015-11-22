@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Source\User\Main -I.\Source\CMSIS\Core\CM3 -I.\Source\STM32F10x_StdPeriph_Driver\inc -I.\Source\User\Usart -I "d:\Program Files\Keil\ARM\INC" -I "d:\Program Files\Keil\ARM\INC\ST\STM32F10x" -o ".\OBJ\readme.o" --omf_browse ".\OBJ\readme.crf" --depend ".\OBJ\readme.d" "Source\User\Doc\Readme.c"

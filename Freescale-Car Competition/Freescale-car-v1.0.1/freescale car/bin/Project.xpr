@@ -1,0 +1,6 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "AD_Z"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "AD_Gyro"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "x"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "Angle.c::AD_Z[5]"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "Angle.c::AD_Z[10]"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "Angle.c::AD_Z[18]"
